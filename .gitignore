@@ -1,0 +1,14 @@
+/node_modules
+.DS_Store
+build
+
+.idea
+npm-debug.log
+log
+logs
+*.log
+env.*
+.env
+
+.nyc_output
+coverage
